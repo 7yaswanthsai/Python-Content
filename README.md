@@ -45,3 +45,22 @@ Welcome to our project's progress tracker! This document provides a detailed ove
 - **Database Integration**: Successfully integrated the database with our application.
 - **Content Creation**: Completed content creation and data gathering.
 - **Wireframing**: API sketch layouts scheduled after backend development.
+
+---
+
+## 📅 Upcoming Tasks
+
+- **14/6**: Continue Backend and Frontend Development
+- **15/6**: Complete API Testing and Deployment
+- **16/6**: Start User Acceptance Testing and Incorporate Feedback
+
+---
+
+## 📊 Progress Bar
+
+![Progress](https://progress-bar.dev/85)
+
+---
+
+Let's keep the momentum going! 🚀
+
